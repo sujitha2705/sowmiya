@@ -37,7 +37,7 @@ To get started with a specific project, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/html-project-tutorial.git
+   git clone https://github.com/sujitha2705/sowmiya.git
    ```
 
 2. Navigate to the project folder of your choice, either `Event_Page_Project` or `Tables_Forms_Project`.
@@ -54,6 +54,6 @@ If you find any bugs, have suggestions for improvements, or want to add more fea
 
 ## About the Author
 
-This tutorial series is created and presented by [Agnel John](https://www.youtube.com/@ErrorMakesClever), a passionate web developer with a goal to share knowledge and help others learn HTML effectively.
+This tutorial series is created and presented by [sujitha senthil nathan] .
 
 Enjoy the journey of learning HTML and building exciting projects with us! Happy coding! 🚀🎉
